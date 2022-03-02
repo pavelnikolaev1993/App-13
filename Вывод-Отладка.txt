@@ -1,0 +1,22 @@
+﻿"Занятие 13.exe" (CoreCLR: DefaultDomain). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Private.CoreLib.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Users\pavel\source\repos\Занятие 13\bin\Debug\net6.0\Занятие 13.dll". Символы загружены.
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Runtime.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\hotreload\Microsoft.Extensions.DotNetDeltaApplier.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Linq.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Collections.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Console.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Threading.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Text.Encoding.Extensions.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Collections.Concurrent.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.IO.Pipes.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Threading.Overlapped.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Security.AccessControl.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Security.Principal.Windows.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Runtime.InteropServices.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Security.Claims.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\Microsoft.Win32.Primitives.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+"Занятие 13.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.1\System.Runtime.Loader.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+Поток 0x26fc завершился с кодом 0 (0x0).
+Поток 0x1aa8 завершился с кодом 0 (0x0).
+Поток 0x1ba0 завершился с кодом 0 (0x0).
+Программа "[14808] Занятие 13.exe" завершилась с кодом 0 (0x0).
